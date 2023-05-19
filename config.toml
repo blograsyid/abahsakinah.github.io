@@ -1,0 +1,4 @@
+baseURL = "https://example.com"
+title = "Your Website Title"
+languageCode = "en-us"
+theme = "lowkey"
